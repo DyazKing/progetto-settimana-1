@@ -1,0 +1,146 @@
+.container{
+    margin: auto;
+}
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: #393d41 ;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    text-align: center;
+}
+
+h1, h2, h3, button{
+    font-family: 'Montserrat', sans-serif;
+}
+h1, h2{
+    line-height: 1.5;
+
+}
+section h3{
+    margin-top: 30px;
+    padding: 10px;
+    font-size: 1.2em;
+}
+section p{
+    font-size: 1.1em;
+    padding: 10px;
+}
+h1, h3{
+    color: #25a2c3 ;
+}
+h2{
+    color: white;
+}
+header{
+    background-color: black;
+}
+
+header img{
+    padding: 30px;
+    width: 150px;
+}
+
+.start{
+    background-image: url(../images/banner.jpg);
+    padding: 40px;
+    background-size: cover;
+    background-position: center;
+}
+.start p{
+    font-size: 1.1em;
+    margin-bottom: 18px;
+}
+h1{
+    font-size: 1.8em;
+    line-height: 30px;
+    margin-bottom: 18px;
+
+}
+
+.start button{
+    font-size: 0.9em;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 17px 32px;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    background-color: #f04c2f ;
+}
+
+section img{
+    margin-top: 38px;
+    border-radius: 50%;
+    height: 18em;
+}
+
+#italic{
+    font-style: italic;
+}
+h2{
+    font-size: 1.8em;
+    margin-top: 20px;
+}
+.testimonial{
+    margin-top: 50px;
+    background-color: #e22d0e;
+    padding: 25px;
+    color: white;
+}
+
+.testimonial p{
+    margin-top: 8px;
+}
+
+.ceo{
+    margin-top: 28px;
+    line-height: 18px;
+    margin-bottom: 10px;
+}
+
+.ceo p:last-child{
+    font-size: 0.7em;
+}
+.box{
+    border: 1px solid #dee1e3;
+    margin:40px 35px;
+}
+.box img{
+    display: inline;
+    width: 100%;
+}
+.box h3, .box p{
+    padding: 7px;
+}
+
+.box p{
+    margin-bottom: 23px;
+}
+
+i{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: #c8e7f0
+    ;
+}
+footer{
+    background-color: #26A2C8;
+    color: #c8e7f0;
+}
+
+footer h2{
+    padding: 25px;
+    
+}
+
+#copy{
+    padding: 20px;
+    border-top: 1px solid #c8e7f0;
+    font-size: 0.7em;
+    margin: 0 115px ;
+    margin-top: 25px;
+}
