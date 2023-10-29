@@ -114,22 +114,7 @@ h2{
 .ceo p:last-child{
     font-size: 0.7em;
 }
-.box{
-    align-items: center;
-    border: 1px solid #dee1e3;
-    margin:40px 35px;
-}
-.box img{
-    display: inline;
-    width: 100%;
-}
-.box h3, .box p{
-    padding: 7px;
-}
 
-.box p{
-    margin-bottom: 23px;
-}
 
 i{
     color: white;
